@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "allay_drop_item_on_block"
+      }
+    },
+    "rewards": {
+      "function": "pakk:lost"
+    }
+  }

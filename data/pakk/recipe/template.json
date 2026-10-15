@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    " # ",
+    " x "
+  ],
+  "key": {
+    "#": "minecraft:oak_button",
+    "x": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "minecraft:oak_button",
+    "count": 1,
+    "components": {
+      "minecraft:bundle_contents": [{"count": 99, "id": "acacia_boat"}],
+      "max_stack_size": 1,
+      "custom_name": { "text": "size 0.005" },
+      "attribute_modifiers": [
+        {
+          "type": "scale",
+          "amount": -1,
+          "operation": "add_multiplied_base",
+          "id": "minecraft:scale"
+        }
+      ]
+    }
+  }
+}
