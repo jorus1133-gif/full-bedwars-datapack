@@ -8,6 +8,10 @@
     "minecraft:stone",
     "minecraft:oak_planks",
     "minecraft:end_stone",
-    "minecraft:glass"
+    "minecraft:glass",
+    "minecraft:blue_bed",
+    "minecraft:red_bed",
+    "minecraft:yellow_bed",
+    "minecraft:green_bed"
   ]
 }
