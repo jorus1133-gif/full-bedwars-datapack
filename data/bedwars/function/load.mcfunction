@@ -1,1 +1,1 @@
-say @a hello
+execute as @a run msg @a hello
