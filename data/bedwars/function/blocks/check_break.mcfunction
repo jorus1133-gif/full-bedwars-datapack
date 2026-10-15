@@ -1,2 +1,0 @@
-# Loop door alle markers heen. Als het blok op die plek veranderd is in lucht, handel het af.
-execute as @e[type=marker,tag=player_placed_block] at @s if block ~ ~ ~ air run function bedwars:blocks/remove_marker

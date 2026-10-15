@@ -1,10 +1,10 @@
 {
   "criteria": {
     "placed": {
-      "trigger": "minecraft:placed_block"
+      "trigger": "avoid_vibration"
     }
   },
   "rewards": {
-    "function": "bedwars:blocks/place_action"
+    "function": "bedwars:load"
 }
 }
