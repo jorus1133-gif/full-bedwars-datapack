@@ -1,2 +1,2 @@
-place template pakk:arena ~ ~ ~
+place template bedwars:arena ~ ~ ~
 kill @s
