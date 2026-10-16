@@ -17,7 +17,7 @@
             {
                 "type": "item",
                 "name": "diamond",
-                "weight": 1
+                "weight": 10
             },
             {
                 "type": "item",
@@ -38,13 +38,16 @@
                 {
                     "type": "item",
                     "name": "mace",
+                    "weight": 5,
                     "functions": [
-                        {
-                            "function": "set_damage",
-                            "add": false,
-                            "damage": 0.001
-                        }
-                    ]
+    { "function": "set_name", "name": "TEST" },
+    { "function": "set_components", "components": { "minecraft:damage": 499 } }
+]
+                },
+                {
+                    "type": "item",
+                    "name": "iron_ingot",
+                    "weight": 50
                 }
             ]
         }
