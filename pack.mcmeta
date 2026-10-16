@@ -1,6 +1,7 @@
-{
-    "pack": {
-        "pack_format": 94,
-        "description": "first datapack"
-    }
-}
+   {
+       "pack": {
+           "description": "first datapack",
+           "min_format": 90,
+           "max_format": 130
+       }
+   }
